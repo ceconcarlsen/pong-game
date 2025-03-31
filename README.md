@@ -30,9 +30,6 @@ O objetivo é impedir que a bola passe pela sua raquete e tentar fazer pontos co
 O jogo foi desenvolvido com Love2D, utilizando Lua. A estrutura principal:
 - **`main.lua`** - Contém a lógica do jogo, movimentação das raquetes e colisões.
 
-## 🖼️ Captura de Tela
-*(Adicione uma captura de tela do jogo aqui)*
-
 ## 📌 Melhorias Futuras
 - Adicionar placar.
 - Melhorar efeitos sonoros.
